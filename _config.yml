@@ -1,0 +1,16 @@
+title: "Iva Victoria"
+author: "Iva Victoria"
+description: "Web developer in Madison, WI."
+baseurl: ""
+url: "https://ivavictoria.github.io"
+theme: minima
+plugins:
+#  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima theme settings
+minima:
+  skin: auto  # Light/dark mode support
+#  social_links:
+#    github: ivavictoria
+#    drupal: ivavictoria
